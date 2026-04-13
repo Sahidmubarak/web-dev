@@ -391,7 +391,7 @@ section{
     overflow: auto;
     border: var(--border);
     text-align: center;
-}
+} 
 
 .featured .featured-slider .box:hover{
     border: var(--border-hover);
